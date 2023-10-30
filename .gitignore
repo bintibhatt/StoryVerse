@@ -1,0 +1,6 @@
+# dependencies
+/Backend/node_modules
+/Frontend/node_modules
+
+# environment variables
+/Backend/Config/.env
