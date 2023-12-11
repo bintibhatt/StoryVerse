@@ -3,4 +3,4 @@
 /Frontend/node_modules
 
 # environment variables
-/Backend/Config/.env
+/Backend/Config/config.env
